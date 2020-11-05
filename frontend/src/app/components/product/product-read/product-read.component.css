@@ -1,0 +1,9 @@
+    .tableProducts{
+        display: flex;
+        flex-direction: row;
+    }
+    .tableProducts div {
+        margin: 2px;
+        border: 1em;
+        border-color: blue;
+    }

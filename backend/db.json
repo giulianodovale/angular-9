@@ -1,0 +1,104 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "caneta BIC Azul escuro",
+      "price": "100"
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": "1255"
+    },
+    {
+      "id": 3,
+      "name": "samsung s10 lite - muito bom",
+      "price": "2500"
+    },
+    {
+      "name": "geladeira",
+      "price": 25,
+      "id": 4
+    },
+    {
+      "name": "carro",
+      "price": 302.89,
+      "id": 5
+    },
+    {
+      "name": "Produto de teste",
+      "price": 125.98,
+      "id": 6
+    },
+    {
+      "name": "Produto de teste",
+      "price": 125.98,
+      "id": 7
+    },
+    {
+      "name": "veio do formulário",
+      "price": 122.32,
+      "id": 8
+    },
+    {
+      "name": "meu produto do Formulario",
+      "price": 9.99,
+      "id": 9
+    },
+    {
+      "name": "testes",
+      "price": "100",
+      "id": 10
+    },
+    {
+      "name": "cadeiras",
+      "price": "4500",
+      "id": 11
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 12
+    },
+    {
+      "name": "mais um",
+      "price": "1111",
+      "id": 13
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 14
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 15
+    },
+    {
+      "name": "um nome qualquer",
+      "price": 1.54,
+      "id": 16
+    },
+    {
+      "name": "um nome qualquer",
+      "price": 1.54,
+      "id": 17
+    },
+    {
+      "name": "vamos testar agora",
+      "price": "0145",
+      "id": 18
+    },
+    {
+      "name": "mais um produto",
+      "price": "1.5",
+      "id": 19
+    },
+    {
+      "name": "Geladeira ",
+      "price": "1890",
+      "id": 20
+    }
+  ]
+}

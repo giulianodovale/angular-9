@@ -1,0 +1,9 @@
+.form {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.buttonCancel {
+    margin: 1rem;
+}
